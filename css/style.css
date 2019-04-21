@@ -1,0 +1,413 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.banner{
+
+background: #87509C;
+
+width: 100%;
+
+float: left;
+
+padding: 50px 0px;
+}
+
+.header-top {}
+
+.logo {
+
+width: 30%;
+
+float: left;
+}
+
+.logo img {
+
+display: block;
+}
+
+.menu-bar {
+
+width: 70%;
+
+float: left;
+}
+
+nav {
+
+text-align: center;
+}
+
+nav ul {
+
+list-style: none;
+}
+
+nav ul li {
+
+display: inline-block;
+
+margin: 15px 40px;
+}
+
+nav ul li a {
+
+text-decoration: none;
+
+color: #fff;
+
+font-size: 25px;
+}
+
+.hero {width: 600px;margin: 0 auto;}
+
+.hero h2 {padding-top: 154px;color: #fff;text-align: center;font-size: 25px;}
+
+.btn {
+	
+margin: 0 auto;
+	
+display: block;
+	
+margin-top: 38px;
+	
+background: #EB7D4B;
+	
+border: none;
+	
+color: #fff;
+	
+padding: 10px 20px;
+	
+font-size: 20px;
+	
+text-transform: uppercase;
+box-shadow: 0px 5px #CA6C42;
+}
+
+
+
+
+
+
+
+
+/*service Section start*/
+
+.service {
+	background: #17C2A4;
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+
+.heading-tittle {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.heading-tittle h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
+
+
+.under-line {
+	border-bottom: 2px solid #161616;
+	display: block;
+	width: 73px;
+	margin: 0 auto;
+}
+
+.heading-tittle p{
+	margin-top: 14px;
+	font-size: 16px;
+}
+
+.service-box {
+
+}
+
+.service-one {
+	width: 25%;
+	float: left;
+	padding-top: 69px;
+}
+
+.service-one img{
+	padding-left: 80px;
+}
+
+.service-one h3{
+	text-align: center;	
+	padding: 22px 0px;	
+	font-size: 25px;
+}
+
+.service-one p{	
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+/*Work Section start*/
+
+.work {
+	background: #D3D3D3;
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+
+.heading-tittle {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.heading-tittle h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
+
+
+.under-line {
+	border-bottom: 2px solid #161616;
+	display: block;
+	width: 73px;
+	margin: 0 auto;
+}
+
+.heading-tittle p{
+	margin-top: 14px;
+	font-size: 16px;
+}
+
+.service-box {
+
+}
+
+.service-two {
+	width: 25%;
+	float: left;
+	padding-top: 69px;
+}
+
+.service-two img{
+	padding-left: 61px;
+}
+
+.service-two h3{
+	text-align: center;	
+	padding: 22px 0px;	
+	font-size: 25px;
+}
+
+.service-two p{	
+	padding: 20px;
+}
+
+.service-two ul {
+	list-style: none;
+	   margin: 0px 26p
+
+}
+
+.service-two ul li {
+	display: inline;
+	margin: 0px 3px;
+
+}
+
+.service-two ul li a {
+	font-size: 5px;
+	color: black;
+	text-decoration: none;
+}
+
+.fa.fa-facebook-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+
+}
+
+.fa.fa-twitter-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+
+}
+
+.fa.fa-google-plus-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+
+}
+.fa.fa-sign-in {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*Skill Section start*/
+
+.skill {
+	background: white;
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+
+.heading-tittle {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.heading-tittle h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
+
+
+.under-line {
+	border-bottom: 2px solid #161616;
+	display: block;
+	width: 73px;
+	margin: 0 auto;
+}
+
+.heading-tittle p{
+	margin-top: 14px;
+	font-size: 16px;
+}
+
+.service-box {
+
+}
+
+.service-three {
+	width: 25%;
+	float: left;
+	padding-top: 69px;
+}
+
+.service-three img{
+	padding-left: 61px;
+}
+
+.service-three h3{
+	text-align: center;	
+	padding: 22px 0px;	
+	font-size: 25px;
+}
+
+
+
+
+
+
+
+/*Portfolio Section start*/
+
+
+.portfolio {
+	background: green;
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+
+.heading-tittle {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.heading-tittle h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
+
+
+.under-line {
+	border-bottom: 2px solid #161616;
+	display: block;
+	width: 73px;
+	margin: 0 auto;
+}
+
+.heading-tittle p{
+	margin-top: 14px;
+	font-size: 16px;
+}
+
+
+.service-pic {
+
+}
+
+.service-four {
+	width: 50%;
+	float: left;
+	padding-top: 62px;
+}
+
+.service-four img{
+}
+
+.service-four h3{
+	text-align: center;	
+	padding: 22px 0px;	
+	font-size: 25px;
+}
+
+
+.service-pico {
+
+}
+
+.service-five {
+	width: 50%;
+	float: left;
+	padding-top: 50px;
+}
+
+.service-five img{
+}
+
+.service-five h3{
+	text-align: center;	
+	padding: 22px 0px;	
+	font-size: 25px;
+}
